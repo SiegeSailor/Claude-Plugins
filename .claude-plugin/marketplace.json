@@ -1,0 +1,23 @@
+{
+  "name": "siegesailor",
+  "owner": {
+    "name": "Jin Yu (Ken) Zhang",
+    "email": "siegesailor@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude plugins."
+  },
+  "plugins": [
+    {
+      "name": "conventional-commit",
+      "source": "./plugins/conventional-commit",
+      "description": "Write Conventional Commits messages: one line, no body, no trailers, one concern per commit.",
+      "version": "1.0.0",
+      "author": { "name": "Jin Yu (Ken) Zhang" },
+      "repository": "https://github.com/SiegeSailor/Claude-Plugins",
+      "license": "MIT",
+      "keywords": ["git", "commit", "conventional-commits", "semantic-release"],
+      "category": "productivity"
+    }
+  ]
+}
