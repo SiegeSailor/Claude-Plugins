@@ -1,0 +1,13 @@
+{
+  "name": "profile-sync",
+  "version": "1.0.0",
+  "description": "Change a fact in SiegeSailor/SiegeSailor's profile/ and carry it to the README, the website, the resume and cover letter, and LinkedIn in one reviewed pass, then email the results.",
+  "author": {
+    "name": "Jin Yu (Ken) Zhang",
+    "url": "https://github.com/SiegeSailor"
+  },
+  "homepage": "https://github.com/SiegeSailor/Claude-Plugins",
+  "repository": "https://github.com/SiegeSailor/Claude-Plugins",
+  "license": "MIT",
+  "keywords": ["profile", "resume", "linkedin", "readme", "website"]
+}
